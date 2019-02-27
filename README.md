@@ -1,3 +1,5 @@
+
+
 #### Set up VIM as an IDE
 
 Vim is a text editor is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
@@ -10,7 +12,7 @@ Vim is the goto text editor for most developers due to the fact that it is light
 
   `sudo apt-get install vim`
 
-- Once vim is installed head over to [github](https://www.github.com/) and download the .vimrc file 
+- Once vim is installed head over to [github](https://github.com/jamessingizi/vim-setup) and download the .vimrc file 
 
 - Copy the .vimrc file to your home directory. (use cd command and hit enter to navigate to your home directory)
 
@@ -26,3 +28,8 @@ Vim is the goto text editor for most developers due to the fact that it is light
 
 - open vim once again and all the plugins should be installed. To open the file tree use ctrl+T
 
+  ##### Final Vim Setup
+
+```
+![Vim Setup](/vim.png "Typical vim ide setup")
+```
